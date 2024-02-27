@@ -1,6 +1,6 @@
 # 안녕하세요. 👋
 
-- 🧑🏻‍💻 현재 `백엔드 개발자`로 일하고 있습니다.
+- 🧑🏻‍💻 현재 `소프트웨어 엔지니어`로 일하고 있습니다.
 
 - 🌱 새롭게 공부했던 내용을 [기록](https://github.com/mangchhe/TIL)해나가고 있습니다.
 
@@ -9,5 +9,3 @@
 - 📈 사고능력을 키우기 위해 [알고리즘](https://github.com/mangchhe/algorithm)을 꾸준히 풀어나가고 있습니다.
 
 <img width="5%"> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangchhe)](https://solved.ac/mangchhe)
-
-- 🛠 저의 기술 스택 → portfolio
