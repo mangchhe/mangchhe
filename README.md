@@ -8,4 +8,6 @@
 
 - 📈 사고능력을 키우기 위해 [알고리즘](https://github.com/mangchhe/algorithm)을 꾸준히 풀어나가고 있습니다.
 
+- 📆 진행했던 [프로젝트 내역](https://github.com/mangchhe/mangchhe/tree/main/project)
+
 <img width="5%"> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangchhe)](https://solved.ac/mangchhe)
