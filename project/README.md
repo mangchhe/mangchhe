@@ -9,3 +9,5 @@
 | 2023.03 | Ahachul | 지하철 이용 개선을 위한 사용자 참여형 커뮤니티 플랫폼 | [Ahachul](https://github.com/ahachulTeam) |
 | 2023.07 | Trunkr | ChatGPT를 활용한 인터뷰 스킬 향상 플랫폼 | [Trunkr](https://github.com/trunkr) |
 | 2024.03 | English Teacher | 효과적인 영어 단어 학습을 지원하는 플랫폼 | [English-Teacher](https://github.com/escape-from-english) |
+| 2024.05 ~ ing | Plot | 소개팅 플랫폼 | [Plot](https://github.com/Plotting-web) |
+| 2024.05 ~ ing | Trader's life | 주식 플랫폼 | [Trader](https://github.com/Miner-s-life) |
